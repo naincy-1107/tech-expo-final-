@@ -3,8 +3,8 @@ import Navbar from "./navbar.jsx";
 import Footer from "./footer.jsx";
 import Home from "./home/home.jsx";
 
-import Visualizer from './Component/Visualizer'
-import Pricing from './Component/Pricing'
+import Visualizer from './Visualizer'
+import Pricing from './Pricing'
 
 function App() {
   return (
